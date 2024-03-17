@@ -52,7 +52,7 @@ function Services() {
 
                             </div>
                             <h3 className="text-xl mb-2 font-bold text-black">Mobile</h3>
-                            <p className="text-base text-gray-500 text-center">This is a wider card with supporting text below as a natural content.</p>
+                            <p className="text-base text-gray-500 text-center">Visually and functionally stunning mobile apps on flutter, react-native, swift, kotlin, etc</p>
                         </div>
                     </div>
                     {/* End Mobile */}
@@ -73,7 +73,7 @@ function Services() {
 
                             </div>
                             <h3 className="text-xl mb-2 font-bold text-black">Web</h3>
-                            <p className="text-base text-gray-500 text-center">This is a wider card with supporting text below as a natural content.</p>
+                            <p className="text-base text-gray-500 text-center">Top-notch web services, responsive, dynamic websites in all modern tech stacks</p>
                         </div>
                     </div>
                     {/* End Web */}
@@ -89,7 +89,7 @@ function Services() {
                                 </svg>
                             </div>
                             <h3 className="text-xl mb-2 font-bold text-black">Database</h3>
-                            <p className="text-base text-gray-500 text-center">This is a wider card with supporting text below as a natural content.</p>
+                            <p className="text-base text-gray-500 text-center">Proper backend services and database management and cloud services</p>
                         </div>
                     </div>
                     {/* End Database */}
@@ -113,7 +113,7 @@ function Services() {
 
                             </div>
                             <h3 className="text-xl mb-2 font-bold text-black">Maintenance &amp; Services</h3>
-                            <p className="text-base text-gray-500 text-center">This is a wider card with supporting text below as a natural content.</p>
+                            <p className="text-base text-gray-500 text-center">Delivering IT services ensuring seamless maintenance, support, and uninterrupted operations</p>
                         </div>
                     </div>
                     {/* End Maintenance & Services */}
@@ -128,7 +128,7 @@ function Services() {
 
                             </div>
                             <h3 className="text-xl mb-2 font-bold text-black">Graphic Design</h3>
-                            <p className="text-base text-gray-500 text-center">This is a wider card with supporting text below as a natural content.</p>
+                            <p className="text-base text-gray-500 text-center">Partner with our creative graphic design solutions tailored to captivate and inspire</p>
                         </div>
                     </div>
                     {/* End Graphic Design */}
