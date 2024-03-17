@@ -67,10 +67,10 @@ export default function Footer() {
                 <h6 className="text-gray-200 font-medium mb-1">Emails</h6>
                 <ul>
                   <li className="mb-1">
-                    <Link href="mailto:internship@drittletech.in?subject=Regarding%20" target='_blank' className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">internship@drittletech.in</Link>
+                    <Link href="mailto:internships@drittle.tech?subject=Regarding%20" target='_blank' className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">internships@drittle.tech</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="mailto:drittletech@gmail.com?subject=Regarding%20" target='_blank' className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">drittletech@gmail.com</Link>
+                    <Link href="mailto:info@drittle.tech?subject=Regarding%20" target='_blank' className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">info@drittle.tech</Link>
                   </li>
                 </ul>
               </div>
