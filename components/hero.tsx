@@ -14,7 +14,7 @@ export default function Hero() {
             <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">Our team of experienced professionals is here to guide you through every step of the journey, from concept to execution.</p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
-                <a className="btn text-white bg-purple-600 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0 rounded-full relative flex items-center justify-center" href="#0">
+                <a className="btn text-white bg-purple-600 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0 rounded-full relative flex items-center justify-center" href="/contactus">
                   <span className="mr-2">Let's Brainstorm</span>
                   <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" className="ml-1"> {/* Added margin to the left side of the SVG */}
                     <path d="M5 12h13M12 5l7 7-7 7" />
